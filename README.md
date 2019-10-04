@@ -18,12 +18,10 @@ Otherwise, run
 
 ## Usage
 
-Render startup time badge somewhere on your first screen:
-
 ```jsx
 import { score } from 'react-native-zxcvbn';
 
 const strength = await score(password);
-console.log(strength);
+console.log(strength); // 0-4
 
 ```
