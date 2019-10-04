@@ -1,4 +1,4 @@
-package com.github.doomsower;
+package com.github.doomsower.rnzxcvbn;
 
 import com.facebook.react.bridge.Promise;
 import com.facebook.react.bridge.ReactApplicationContext;
