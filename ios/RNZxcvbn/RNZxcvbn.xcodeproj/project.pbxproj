@@ -1,0 +1,74 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		759610DE23476BF00030DE0D /* RNZxcvbn.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RNZxcvbn.h; sourceTree = "<group>"; };
+		759610DF23476BFF0030DE0D /* RNZxcvbn.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RNZxcvbn.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		759610D723476BD80030DE0D = {
+			isa = PBXGroup;
+			children = (
+				759610DF23476BFF0030DE0D /* RNZxcvbn.m */,
+				759610DE23476BF00030DE0D /* RNZxcvbn.h */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		759610D823476BD80030DE0D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1010;
+			};
+			buildConfigurationList = 759610DB23476BD80030DE0D /* Build configuration list for PBXProject "RNZxcvbn" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 759610D723476BD80030DE0D;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		759610DC23476BD80030DE0D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		759610DD23476BD80030DE0D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		759610DB23476BD80030DE0D /* Build configuration list for PBXProject "RNZxcvbn" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				759610DC23476BD80030DE0D /* Debug */,
+				759610DD23476BD80030DE0D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 759610D823476BD80030DE0D /* Project object */;
+}
