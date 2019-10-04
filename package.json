@@ -1,6 +1,6 @@
 {
   "name": "react-native-zxcvbn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react-native zxcvbn bridge",
   "main": "index.js",
   "files": [
